@@ -1,0 +1,8 @@
+{
+  "name": "VoxelCraft 3D",
+  "description": "A fully playable 3D Minecraft-style voxel game built with Three.js featuring infinite procedural terrain, building and mining, dynamic flying mode, day-night cycle, and dual desktop and mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
